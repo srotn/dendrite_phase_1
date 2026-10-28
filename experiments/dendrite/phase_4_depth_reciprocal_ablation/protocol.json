@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    "01_forced",
+    "02_thermal",
+    "03_optical",
+    "04_impedance",
+    "05_concrete",
+    "06_co"
+  ],
+  "depths": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    16
+  ],
+  "seeds": [
+    20261025,
+    20261026,
+    20261027,
+    20261028,
+    20261029
+  ],
+  "methods": [
+    "base",
+    "duplicate",
+    "reciprocal"
+  ],
+  "epochs": 2000,
+  "lr": 0.0002,
+  "batch": 4096,
+  "runs": 540,
+  "source_sha256": "2985a1b093facc3801e93c65ba94dfb8df0075c0f21c517b6ce0e27e275a76ff"
+}

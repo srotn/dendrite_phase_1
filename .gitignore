@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated datasets, checkpoints, predictions, and run logs
+**/artifacts/
+**/runs/
+**/pilot/
+**/data/
+**/raw/
+**/logs/
+**/source_audit/
+**/*.pt
+**/*.npz
+**/*.jsonl
+**/*.joblib
+**/pipeline_state.json
+**/status.json
+**/last_run.json
+
+# Local protocol locks and generated reports
+**/PROTOCOL_LOCK.json
+**/TRAINING_LOCK.json
+**/historical_source_hashes.json
+**/training_lock.json
+**/numerical_verification.json
+**/engine_verification.json
+**/pipeline_state.json
+**/PIPELINE_FAILED.json

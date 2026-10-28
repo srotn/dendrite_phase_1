@@ -1,0 +1,1226 @@
+[
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 1,
+    "mean": 14.958203887710852,
+    "low": 14.489195201527224,
+    "high": 15.42721257389448,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      14.562682569505847,
+      14.642973880182875,
+      15.489419997385523,
+      15.139057812863822,
+      14.956885178616197
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 2,
+    "mean": 22.666710615456935,
+    "low": 19.52854802362506,
+    "high": 25.80487320728881,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      23.886402069020683,
+      25.833673361906364,
+      19.42423777994352,
+      20.897709780947505,
+      23.291530085466604
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 3,
+    "mean": 30.883810715047957,
+    "low": 28.87235842605351,
+    "high": 32.895263004042405,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      31.76238861087476,
+      31.413073458164508,
+      30.636607675657213,
+      28.216570761358028,
+      32.390413069185264
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 4,
+    "mean": 37.93239613340628,
+    "low": 35.785006668777584,
+    "high": 40.079785598034974,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      38.139959699329395,
+      37.8052050606688,
+      39.67311793318569,
+      35.12232881086839,
+      38.921369162979126
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 8,
+    "mean": 54.382684683431265,
+    "low": 51.82444737707056,
+    "high": 56.94092198979197,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      55.22852037129522,
+      56.43615299498342,
+      50.967742319930245,
+      54.28491125693478,
+      54.99609647401266
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "base",
+    "depth": 16,
+    "mean": 68.8189266839789,
+    "low": 68.39672595397789,
+    "high": 69.24112741397991,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      69.00630515908937,
+      68.6119532512417,
+      68.82321623431322,
+      69.26498125082739,
+      68.38817752442287
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": 13.160405733988174,
+    "low": 12.791572504796449,
+    "high": 13.5292389631799,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      13.081080265724065,
+      13.205154535576325,
+      13.584219058262404,
+      12.754501291212538,
+      13.177073519165528
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 21.986371132945784,
+    "low": 18.497392340759376,
+    "high": 25.475349925132193,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      23.51986315103686,
+      25.36080624250182,
+      18.48177884352492,
+      19.7718601060244,
+      22.7975473216409
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": 30.100200898574343,
+    "low": 28.245502417483134,
+    "high": 31.95489937966555,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      30.695894685146353,
+      30.687051234359032,
+      29.679975363110678,
+      27.74947308363839,
+      31.688610126617256
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": 36.91197747924567,
+    "low": 35.02153634832148,
+    "high": 38.80241861016986,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      37.01548525753253,
+      37.185587474598435,
+      38.44574577214376,
+      34.37407809195048,
+      37.538990800003155
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": 52.61216475982236,
+    "low": 49.74869022197288,
+    "high": 55.47563929767185,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      53.88561672489669,
+      54.96971967867339,
+      48.964712802439735,
+      51.992020270284364,
+      53.24875432281762
+    ]
+  },
+  {
+    "task": "01_forced",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": 67.41698496613444,
+    "low": 66.77575724665176,
+    "high": 68.05821268561711,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      68.01529198850518,
+      67.23879301280779,
+      66.99232892357499,
+      67.91761125695488,
+      66.92089964882932
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 1,
+    "mean": -9.208112046074314,
+    "low": -10.85867944376714,
+    "high": -7.557544648381487,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -7.534700279623485,
+      -10.589991590576297,
+      -9.806889610069636,
+      -8.066379482014652,
+      -10.042599268087503
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 2,
+    "mean": 27.5492554133192,
+    "low": 25.74124514895748,
+    "high": 29.357265677680925,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      26.725929750600088,
+      27.60081077162332,
+      29.93730095304611,
+      27.37027205675243,
+      26.111963534574066
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 3,
+    "mean": 34.44455782021639,
+    "low": 29.29697147398577,
+    "high": 39.59214416644701,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      37.88551198057998,
+      39.20697029285337,
+      33.985820730803425,
+      31.99122587867106,
+      29.153260218174115
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 4,
+    "mean": 43.387631603132675,
+    "low": 36.81122774065331,
+    "high": 49.96403546561204,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      49.74402647562921,
+      35.48894361046392,
+      41.52433780988049,
+      44.82081930771883,
+      45.36003081197093
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 8,
+    "mean": 44.606976990770754,
+    "low": 33.28672143008044,
+    "high": 55.92723255146107,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      36.80269277554085,
+      54.568978473399035,
+      49.69349871109468,
+      48.73787352512403,
+      33.23184146869516
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "base",
+    "depth": 16,
+    "mean": -84.03280974358957,
+    "low": -114.6698749506879,
+    "high": -53.395744536491236,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -54.69481753798164,
+      -70.68661425607038,
+      -96.85816745406153,
+      -79.1359656400157,
+      -118.78848382981855
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": -8.084384433442626,
+    "low": -9.245006535565938,
+    "high": -6.923762331319312,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -8.447829088058988,
+      -8.288762865514144,
+      -7.820445754663075,
+      -6.666505668925704,
+      -9.198378790051208
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 21.87637543088317,
+    "low": 18.284675998017374,
+    "high": 25.468074863748964,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      23.261953083973562,
+      18.897167706432327,
+      25.654639742341622,
+      22.517926627492212,
+      19.050189994176105
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": 24.871524459510233,
+    "low": 21.30329299117314,
+    "high": 28.439755927847326,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      25.42867630397779,
+      29.16016637699066,
+      21.809313813961616,
+      25.276490763132653,
+      22.68297503948844
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": 37.87211249705907,
+    "low": 31.8738457970598,
+    "high": 43.87037919705834,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      43.374082681916214,
+      30.604721697754922,
+      36.21039458970945,
+      40.48763865650006,
+      38.683724859414724
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": 39.18622891175063,
+    "low": 27.60778846830425,
+    "high": 50.764669355197015,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      32.167546185731354,
+      48.561923124061245,
+      45.45835185977533,
+      43.05951420546824,
+      26.683809183717
+    ]
+  },
+  {
+    "task": "02_thermal",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": -94.39891109476605,
+    "low": -127.62513782959837,
+    "high": -61.17268435993373,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -64.07313564788446,
+      -74.65572169103962,
+      -109.9299445913127,
+      -92.73145875561563,
+      -130.60429478797784
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 1,
+    "mean": 2.362384575645682,
+    "low": 2.1449115102710343,
+    "high": 2.5798576410203293,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      2.5761724524468455,
+      2.215988778178335,
+      2.322438045366493,
+      2.51236244669355,
+      2.184961155543186
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 2,
+    "mean": 1.9107084728410917,
+    "low": 1.5533087995337718,
+    "high": 2.2681081461484114,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      2.231351245597901,
+      1.9380526438601886,
+      1.8107053517627092,
+      1.480858992946632,
+      2.0925741300380274
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 3,
+    "mean": -0.25547151934845136,
+    "low": -0.3929200806606593,
+    "high": -0.11802295803624344,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -0.12552305576223333,
+      -0.30680470705619634,
+      -0.3368802394927872,
+      -0.36099154234554565,
+      -0.14715805208549426
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 4,
+    "mean": -2.3609570768965504,
+    "low": -2.7702191689731333,
+    "high": -1.9516949848199676,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -2.024412600249348,
+      -2.522056684501317,
+      -2.85217196438432,
+      -2.157233100680056,
+      -2.248911034667711
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 8,
+    "mean": -5.7383336093134,
+    "low": -6.388050353637598,
+    "high": -5.088616864989201,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -5.599744562203468,
+      -5.0717207384958884,
+      -6.492815106823713,
+      -5.5888966082835,
+      -5.938491030760429
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "base",
+    "depth": 16,
+    "mean": -9.06440170577245,
+    "low": -9.963470727312048,
+    "high": -8.165332684232853,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -8.448987740406677,
+      -10.272536956170143,
+      -9.128576633884755,
+      -8.59632798365142,
+      -8.875579214749262
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": 1.6435384130577233,
+    "low": 1.6048137531890596,
+    "high": 1.682263072926387,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      1.6289655737603548,
+      1.6346197871619284,
+      1.649051181933514,
+      1.6937998870633075,
+      1.6112556353695129
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 1.5915388872932867,
+    "low": 1.2378686599000959,
+    "high": 1.9452091146864776,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      2.0326496673599315,
+      1.5294860369291507,
+      1.4371799807739616,
+      1.2829437163594415,
+      1.6754350350439484
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": -1.2296632741014735,
+    "low": -1.3432708142606664,
+    "high": -1.1160557339422805,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -1.2479196181138352,
+      -1.2899664181260428,
+      -1.2046443652910188,
+      -1.3200621231981957,
+      -1.0857238457782747
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": -2.850540594624067,
+    "low": -3.130437639467499,
+    "high": -2.570643549780635,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -2.545563915385074,
+      -2.9597487808046052,
+      -3.154604971816366,
+      -2.7953869158821254,
+      -2.797398389232164
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": -6.009813799235628,
+    "low": -6.781211055644958,
+    "high": -5.2384165428262985,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -5.850265289327572,
+      -5.274489358661283,
+      -6.635320929114341,
+      -5.62001392868523,
+      -6.668979490389715
+    ]
+  },
+  {
+    "task": "03_optical",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": -9.384490882096909,
+    "low": -11.007612303444906,
+    "high": -7.761369460748911,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      -8.513628286493313,
+      -11.605056126748092,
+      -9.219183206192106,
+      -9.249024709832243,
+      -8.335562081218795
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 1,
+    "mean": 54.785328350063445,
+    "low": 53.857302392984906,
+    "high": 55.713354307141984,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      55.15099051412706,
+      53.7819666451824,
+      54.27302737067353,
+      55.65214266373495,
+      55.068514556599254
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 2,
+    "mean": 87.12014763951323,
+    "low": 86.77708485364332,
+    "high": 87.46321042538315,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      87.26644945833355,
+      87.15464236854487,
+      86.66388623172804,
+      87.39323470449366,
+      87.12252543446601
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 3,
+    "mean": 92.5983089587057,
+    "low": 92.29049651573162,
+    "high": 92.90612140167978,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      92.26972763272524,
+      92.60698108076062,
+      92.8823032365199,
+      92.78432198593072,
+      92.44821085759204
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 4,
+    "mean": 94.74941104209104,
+    "low": 94.5721155331568,
+    "high": 94.92670655102528,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      94.80706968618259,
+      94.56414655796901,
+      94.79722559354045,
+      94.65067520725425,
+      94.92793816550883
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 8,
+    "mean": 96.63403465229338,
+    "low": 96.53496355165902,
+    "high": 96.73310575292774,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      96.65982288628979,
+      96.62504807383046,
+      96.66978992133758,
+      96.7127794674218,
+      96.50273291258732
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "base",
+    "depth": 16,
+    "mean": 96.83270244788996,
+    "low": 96.72235504955009,
+    "high": 96.94304984622983,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      96.93306473156898,
+      96.75744163581282,
+      96.86592503010804,
+      96.72276123501089,
+      96.88431960694899
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": 53.50534269784142,
+    "low": 52.817528930835856,
+    "high": 54.193156464846986,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      53.383556477167524,
+      52.759780966872974,
+      53.29804867315136,
+      53.90788924680569,
+      54.17743812520954
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 86.91845840303841,
+    "low": 86.57851901356112,
+    "high": 87.25839779251571,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      87.03221961973328,
+      87.01293437755231,
+      86.49175722912872,
+      87.2174422319001,
+      86.83793855687766
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": 92.11636183076318,
+    "low": 91.7831187012167,
+    "high": 92.44960496030967,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      91.70545288295202,
+      92.10793334279556,
+      92.39719130348654,
+      92.30960354920937,
+      92.0616280753724
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": 94.26004181028082,
+    "low": 94.07468323178615,
+    "high": 94.4454003887755,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      94.32310919927825,
+      94.06163767425184,
+      94.31221930658886,
+      94.16087517741741,
+      94.44236769386775
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": 96.17211107389832,
+    "low": 95.97867212954287,
+    "high": 96.36555001825377,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      96.1217868352355,
+      96.36159125409424,
+      96.07433227946699,
+      96.30671289350238,
+      95.99613210719252
+    ]
+  },
+  {
+    "task": "04_impedance",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": 96.53106641340094,
+    "low": 96.36676885387304,
+    "high": 96.69536397292883,
+    "unit": "optimization_seed",
+    "interval": "95% t over fixed-data optimization seeds",
+    "values": [
+      96.62835235431592,
+      96.61395748944737,
+      96.53909979931474,
+      96.30294027048619,
+      96.57098215344044
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 1,
+    "mean": 29.89402110143851,
+    "low": 24.40042967530078,
+    "high": 36.3292400152805,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      28.581330275877434,
+      36.3292400152805,
+      31.86075803941257,
+      28.29834750132126,
+      24.40042967530078
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 2,
+    "mean": 31.761032279188875,
+    "low": 27.94917636809484,
+    "high": 36.95782050028796,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.95782050028796,
+      36.60647826564722,
+      28.41273273401737,
+      27.94917636809484,
+      28.87895352789697
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 3,
+    "mean": 32.356555800582484,
+    "low": 26.9523904707809,
+    "high": 36.76973315350045,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      30.961081805933887,
+      34.65123472197877,
+      32.44833885071843,
+      26.9523904707809,
+      36.76973315350045
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 4,
+    "mean": 30.755046419122902,
+    "low": 20.664573437790384,
+    "high": 43.034288948054204,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.544504885889346,
+      27.31631830863981,
+      26.21554651524077,
+      20.664573437790384,
+      43.034288948054204
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 8,
+    "mean": 28.01913080921731,
+    "low": 9.059226310943233,
+    "high": 41.87331009810925,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      41.87331009810925,
+      32.875168019826795,
+      20.988234242151922,
+      9.059226310943233,
+      35.29971537505534
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "base",
+    "depth": 16,
+    "mean": 17.92436620619916,
+    "low": -22.03664553785006,
+    "high": 36.12848068473185,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      13.773922947014801,
+      31.91025236673448,
+      36.12848068473185,
+      -22.03664553785006,
+      29.845820570364754
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": 26.456485125516515,
+    "low": 21.443158772914284,
+    "high": 30.77342359629131,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      30.77342359629131,
+      28.640642811640575,
+      27.892667169671395,
+      21.443158772914284,
+      23.53253327706501
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 28.322146341293706,
+    "low": 15.080372082134616,
+    "high": 42.374687424691885,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      42.374687424691885,
+      15.080372082134616,
+      24.137934074140308,
+      25.70599612442557,
+      34.31174200107614
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": 29.777208616074027,
+    "low": 12.935045904992755,
+    "high": 46.22996615709943,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      46.22996615709943,
+      12.935045904992755,
+      17.657448665941082,
+      32.60196153388643,
+      39.46162081845047
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": 20.536104000365487,
+    "low": 1.7648209821611045,
+    "high": 41.45147883830774,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      41.45147883830774,
+      1.7648209821611045,
+      7.31289944681653,
+      12.934562361356202,
+      39.216758373185854
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": 27.442237235477695,
+    "low": 12.521545306991433,
+    "high": 46.74654678522097,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      44.19705171152128,
+      15.759926045518919,
+      12.521545306991433,
+      17.98611632813588,
+      46.74654678522097
+    ]
+  },
+  {
+    "task": "05_concrete",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": 23.66330903439213,
+    "low": 3.1661146692547937,
+    "high": 41.86813465607444,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      41.86813465607444,
+      5.0168467097085285,
+      30.258308231585676,
+      3.1661146692547937,
+      38.00714090533721
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 1,
+    "mean": 29.76487527099608,
+    "low": 26.046144155965777,
+    "high": 34.297428142406375,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      34.297428142406375,
+      29.32916529118957,
+      26.046144155965777,
+      29.22576648793368,
+      29.925872277484988
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 2,
+    "mean": 31.938485466811557,
+    "low": 26.73427600854279,
+    "high": 34.48717559979648,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      34.48717559979648,
+      30.270903749469422,
+      26.73427600854279,
+      33.984272771239105,
+      34.21579920500998
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 3,
+    "mean": 32.958991652651946,
+    "low": 26.065802593211597,
+    "high": 35.34035536182278,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      35.34035536182278,
+      33.64821062233565,
+      26.065802593211597,
+      34.79227212709166,
+      34.94831755879804
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 4,
+    "mean": 32.59793304955318,
+    "low": 27.060071687021722,
+    "high": 36.857486578829715,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.10332254340542,
+      34.19213333307098,
+      27.060071687021722,
+      36.857486578829715,
+      28.776651105438052
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 8,
+    "mean": 31.18666114863918,
+    "low": 25.83047901842346,
+    "high": 36.45473151627778,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.45473151627778,
+      32.68007202281782,
+      28.45717082368172,
+      32.5108523619951,
+      25.83047901842346
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "base",
+    "depth": 16,
+    "mean": 21.18754293135624,
+    "low": 5.6860698398815925,
+    "high": 36.86596859973498,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.86596859973498,
+      36.04316628098906,
+      5.6860698398815925,
+      17.193704907602836,
+      10.148805028572735
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 1,
+    "mean": 29.313485232271823,
+    "low": 25.390835052771475,
+    "high": 34.014078113976055,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      34.014078113976055,
+      28.62750983364739,
+      25.390835052771475,
+      28.51007572976012,
+      30.02492743120408
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 2,
+    "mean": 31.498286384579863,
+    "low": 26.300244890884482,
+    "high": 34.34930487817145,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      34.34930487817145,
+      29.747428300193835,
+      26.300244890884482,
+      33.4382412651298,
+      33.65621258851976
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 3,
+    "mean": 33.848011217357474,
+    "low": 26.30684565266236,
+    "high": 40.145297611063796,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      34.97462312993434,
+      32.388289821223886,
+      26.30684565266236,
+      35.424999871903,
+      40.145297611063796
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 4,
+    "mean": 35.464676706809634,
+    "low": 27.18551712296703,
+    "high": 40.53737877487691,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.16541619391952,
+      34.12473055026178,
+      27.18551712296703,
+      39.310340892022914,
+      40.53737877487691
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 8,
+    "mean": 36.51965434259249,
+    "low": 27.78196047309602,
+    "high": 44.282689123274345,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      36.48162201474355,
+      36.29454813489941,
+      27.78196047309602,
+      37.75745196694915,
+      44.282689123274345
+    ]
+  },
+  {
+    "task": "06_co",
+    "control": "duplicate",
+    "depth": 16,
+    "mean": 26.937107519561273,
+    "low": 4.63219304674269,
+    "high": 44.862578040492025,
+    "unit": "test_fold_mean_over_3_seeds",
+    "interval": "range of fold means; NOT a confidence interval",
+    "values": [
+      43.14387287749745,
+      44.862578040492025,
+      4.63219304674269,
+      19.30226976662046,
+      22.744623866453747
+    ]
+  }
+]

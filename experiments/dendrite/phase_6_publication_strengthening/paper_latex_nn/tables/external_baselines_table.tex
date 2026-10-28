@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering
+\caption{Normalized test RMSE for Dendrite Net models and external baselines.}
+\label{tab:external-baselines}
+\scriptsize
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lrrrrrr@{}}
+\toprule
+Task & DD duplicate & DD reciprocal & MLP original & MLP reciprocal & Polynomial Ridge & HistGradientBoosting \\
+\midrule
+Forced oscillation & 0.44330 & 0.26365 & 0.02377 & 0.02913 & 0.36158 & 0.14433 \\
+Thermal field & 0.17125 & 0.08803 & 0.04381 & 0.04549 & 0.21469 & 0.16392 \\
+Optical & 0.85409 & 0.87605 & 0.81986 & 0.82581 & 0.86959 & 0.81229 \\
+Impedance & 0.15039 & 0.00709 & 0.00697 & 0.00690 & 0.03605 & 0.07282 \\
+Concrete & 0.24916 & 0.19231 & 0.17919 & 0.16818 & 0.21316 & 0.15756 \\
+CO & 0.63442 & 0.41082 & 0.58353 & 0.36144 & 0.63584 & 0.34395 \\
+\bottomrule
+\end{tabular}}
+\par\vspace{2pt}\footnotesize Values are normalized test RMSE. Neural comparisons use a common 2000-epoch budget and validation-based selection.
+\end{table}

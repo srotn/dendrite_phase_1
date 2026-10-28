@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\caption{Depth-16 reciprocal-input gains across continuous training budgets.}
+\label{tab:budget-gains}
+\small
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Task & 2000 epochs & 4000 epochs & 8000 epochs \\
+\midrule
+Forced oscillation & 72.92 & 74.83 & 76.40 \\
+Thermal field & 79.46 & 83.76 & 86.16 \\
+Optical & -7.79 & -7.79 & -7.79 \\
+Impedance & 97.10 & 97.76 & 98.23 \\
+Concrete & 29.86 & 31.16 & 29.61 \\
+CO & 41.39 & 42.75 & 38.74 \\
+\bottomrule
+\end{tabular}
+\par\vspace{2pt}\footnotesize Values are percentages relative to the paired duplicate control; Adam state is carried continuously between budget snapshots.
+\end{table}
